@@ -1,5 +1,5 @@
 FROM blacklabelops/alpine:3.4
-MAINTAINER Steffen Bleul <sbl@blacklabelops.com>
+MAINTAINER Ascend NTNU "www.ascendntnu.no"
 
 # Build time arguments
 # Values: latest or version number (e.g. 9.4.6-r0)
